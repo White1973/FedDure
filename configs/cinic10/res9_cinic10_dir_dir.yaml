@@ -7,7 +7,7 @@ config: res9_FedDure_pseudo_cifar100_iid_dir_non_warmup_5_with_scheduler
 data:
   # The root directory where datasets are stored.
   root: "/root/autodl-tmp/fssl_data"
-  # The name of the dataset, support: femnist, shakespeare, cifar10, and cifar100.
+  # The name of the dataset, support:  cifar10, and cinic10.
   dataset: cinic10
   # The data distribution of each client, support: iid, niid (for femnist and shakespeare), and dir and class (for cifar datasets).
     # `iid` means independent and identically distributed data.
