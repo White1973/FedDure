@@ -1,0 +1,1 @@
+from easyfl.datasets.cinic10.cinic10 import Cinic10
