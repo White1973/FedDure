@@ -2,15 +2,13 @@
 ![FedDure](framework.png)
 ## Setup
 ```
-conda create --name fssl python=3.6.8
-conda activate clip
-pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
-pip3 install git+https://github.com/openai/CLIP.git](https://github.com/EasyFL-AI/EasyFL.git
+conda create --name fssl python=3.9.8
+conda activate feddure
 ```
-Alternatively, you can use `pip install -r requirements.txt` to install all the dependencies.
+Alternatively, you can use `pip install -r requirements.txt` to install the dependencies.
 
 ## Download Dataset
-We experiment with three datasets: Cifar10, CINIC10 and FashionMNIST.
+We provide experiment with two datasets: Cifar10 and CINIC10.
 
 ## Training
 We provide the running scripts in `configs`, which allow you to reproduce the results on our paper.
