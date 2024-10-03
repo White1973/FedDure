@@ -23,9 +23,9 @@ Make sure you change the data path (`root`) in `.yaml` files.
 
 **Workstation**
 
-- bash train.sh ./configs/cifar10/res9_meta_pseudo_cifar10_wnet1_dir_dir_5.yaml
+- bash train.sh ./configs/cifar10/res9_cifar10_dir_dir_5.yaml
 
-You run the commands for CINIC10, FashionMNIST in a similar manner by changing the scripts.
+You run the commands for CINIC10 in a similar manner by changing the scripts.
 ## References
 If you use this code, please cite
 ```
