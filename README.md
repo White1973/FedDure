@@ -29,10 +29,13 @@ You run the commands for CINIC10 in a similar manner by changing the scripts.
 ## References
 If you use this code, please cite
 ```
-@article{bai2023combating,
-  title={Combating Data Imbalances in Federated Semi-supervised Learning with Dual Regulators},
-  author={Sikai Bai, Shuaicheng Li,Weiming Zhuang, Kunlin Yang, Jie Zhang, Jun Hou, Shuai Yi, Shuai Zhang, Junyu Gao},
-  conference={The Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24)},
-  year={2023}
+@inproceedings{bai2024combating,
+  title={Combating data imbalances in federated semi-supervised learning with dual regulators},
+  author={Bai, Sikai and Li, Shuaicheng and Zhuang, Weiming and Zhang, Jie and Yang, Kunlin and Hou, Jun and Yi, Shuai and Zhang, Shuai and Gao, Junyu},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={10},
+  pages={10989--10997},
+  year={2024}
 }
 ```
