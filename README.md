@@ -17,7 +17,7 @@ Make sure you change the data path (`root`) in `.yaml` files.
 ### Cifar10
 **Slurm cluster**:
 
-- sh train_slurm.sh vi_irdc 1 ./configs/cifar10/res9_meta_pseudo_cifar10_wnet1_dir_dir_5.yaml
+- sh train_slurm.sh vi_irdc 1 ./configs/cifar10/res9_cifar10_dir_dir_5.yaml
 
 **Workstation**
 
